@@ -4,7 +4,7 @@
             <div class="row">
                <div class="col-md-6 ">
                   <div class="contact">
-                     <a href="index.php"><img class="img-responsive" src="images/logo.png" alt="#" height="50px" width="80px"/></a>
+                     <a href="index.markdown"><img class="img-responsive" src="images/logo.png" alt="#" height="50px" width="80px"/></a>
                      <div class="footer_link_heading">
                         <div class="footer_menu margin_top_10">
                            <ul>
