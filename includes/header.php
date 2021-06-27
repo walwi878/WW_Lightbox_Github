@@ -39,8 +39,8 @@
               <div class="row">
                <div class="col-lg-2-5">
                   <div class="full">
-                     <div class="logo" href="index.php">
-                        <a href="index.php"><img src="images/logo.png" alt="#" height="50px" width="80px"/></a>
+                     <div class="logo" href="index.markdown">
+                        <a href="index.markdown"><img src="images/logo.png" alt="#" height="50px" width="80px"/></a>
                      </div>
                   </div>
                </div>
